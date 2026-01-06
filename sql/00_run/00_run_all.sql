@@ -1,5 +1,5 @@
 -- =========================================================
--- Eddie's Holsters | Full Pipeline Runner
+-- Customer Holster Solutions | Full Pipeline Runner
 -- =========================================================
 -- This script runs the entire project end-to-end:
 -- schema → load → cleaning → analysis
@@ -21,3 +21,4 @@
 \i sql/04_analysis/q4_customer_value.sql
 \i sql/04_analysis/q5_traffic_sources.sql
 \i sql/04_analysis/q6_revenue_concentration.sql
+
