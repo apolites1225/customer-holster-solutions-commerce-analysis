@@ -1,8 +1,8 @@
-# Eddie’s Holsters — Ecommerce Revenue & Customer Analysis
+# Customer Holster Solutions — Ecommerce Revenue & Customer Analysis
 
 ## Executive Summary
 
-This project analyzes ecommerce sales, customer behavior, discounts, and traffic sources for Eddie’s Holsters using exported Shopify data.
+This project analyzes ecommerce sales, customer behavior, discounts, and traffic sources for Customer Holster Solutions using exported Shopify data.
 
 The analysis surfaced three material findings:
 
@@ -82,3 +82,4 @@ sql/
 ├── 04_analysis/
 
 └── 00_run/00_run_all.sql
+
