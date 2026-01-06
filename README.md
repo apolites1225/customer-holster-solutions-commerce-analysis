@@ -74,10 +74,11 @@ All data was provided as CSV exports and loaded into PostgreSQL for analysis.
 ---
 
 ## Project Structure & Reproducibility
-
+```text
 sql/
 ├── 01_schema/
 ├── 02_load/
 ├── 03_cleaning/
 ├── 04_analysis/
+
 └── 00_run/00_run_all.sql
