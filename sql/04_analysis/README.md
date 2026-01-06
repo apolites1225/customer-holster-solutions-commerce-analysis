@@ -32,7 +32,7 @@ Top revenue and top volume products broadly overlap: Custom IWB, IWB Sidecar, an
 
 Long-tail products contribute minimal volume and revenue: Most non-custom holsters sold fewer than 5 units, contributing marginal revenue individually.
 
-Product mix favors custom holsters: Custom-configured holsters dominate both revenue and unit volume, suggesting they are the core of Eddie’s business model.
+Product mix favors custom holsters: Custom-configured holsters dominate both revenue and unit volume, suggesting they are the core of Customer Holster Solutions' business model.
 
 High-volume does not always imply high revenue: Beyond the top few products, unit volume drops sharply while revenue contribution becomes negligible.
 
@@ -109,4 +109,5 @@ Customer revenue is moderately concentrated but not overly dependent on a few bu
 Out of 348 total customers, this indicates a relatively healthy spread of customer value rather than extreme whale dependency.
 
 Revenue risk is product-concentrated, not customer-concentrated:
+
 While customer spend is distributed across hundreds of buyers, revenue dependency is strongly tied to a small set of core product offerings.
