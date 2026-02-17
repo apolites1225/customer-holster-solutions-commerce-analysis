@@ -10,7 +10,7 @@ The analysis surfaced three material findings:
 - **Product attribution issues materially limit insight**, as **49.8% of total net revenue ($22.1K)** is tied to NULL (unattributed) product titles.
 - **Discounting has a measurable but limited impact**, accounting for **$268 in revenue erosion**, with little evidence of corresponding volume lift.
 
-While customer revenue is distributed across hundreds of buyers, product-level concentration and data quality represent the primary operational risks.
+While customer revenue is broadly distributed, product-level concentration and data quality gaps represent the primary operational risks.
 
 ---
 
@@ -83,5 +83,6 @@ sql/
 ├── 04_analysis/
 
 └── 00_run/00_run_all.sql
+
 
 
