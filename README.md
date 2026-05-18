@@ -1,4 +1,4 @@
-# Customer Holster Solutions — Ecommerce Revenue & Customer Analysis
+# Customer Holster Solutions — Sales & Product Analysis
 
 ## Executive Summary
 
